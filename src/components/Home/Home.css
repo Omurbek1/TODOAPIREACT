@@ -1,0 +1,21 @@
+.modal{
+    width: 50%;
+    left: 25%;
+    top: 10%;
+    background-color: aqua;
+    border-radius: 25px;
+    box-shadow: 15px 15px 25px rgb(118, 177, 255);
+    position: absolute;
+    height: 300px;
+}
+.close{
+    position: absolute;
+    right: 5%;
+    top:5%;
+    font-size: 2em;
+    cursor: pointer;
+    font-weight: bold;
+    color: red;
+    opacity: 0.8;
+    transform: rotate(45deg);
+}
